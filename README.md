@@ -5,7 +5,7 @@
 
 - I’m currently working on my project [Budget-Page-JS](https://github.com/manelpz/Budget-Page-JS) 🔨
 - I’m currently learning Vanilla JS & ECMA6 📕 
-- I'm interested in collaborate in Open Projects and startups 🔥 
+- I'm interested in collaborate in non profit projects and Startups 🔥 
 - Contact me on [Linkedin](https://www.linkedin.com/in/manelpz/) 💬 
 
 
