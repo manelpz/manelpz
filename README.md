@@ -3,8 +3,8 @@
 
 ## Working on.. 
 
-- I’m currently working on my project [forkify](https://github.com/manelpz/forkify) 🔨
-- I’m currently learning Vanilla JS & ECMA6 📕 
+- Check it out my last project [forkify](https://github.com/manelpz/forkify) 🔨
+- I’m currently learning iOS and Vue.js 📕 
 - I'm interested in collaborate in non-profit projects and Startups 🔥 
 - Contact me on [Linkedin](https://www.linkedin.com/in/manelpz/) 💬 
 
