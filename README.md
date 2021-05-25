@@ -3,7 +3,7 @@
 
 ## Working on.. 
 
-- Check it out my last project [Vue.js](https://github.com/manelpz/ninja-smoothies) 🔨
+- Check it out my last project [ninja-smoothies](https://github.com/manelpz/ninja-smoothies) 🔨
 - I’m currently learning [.NET Core Web API](https://github.com/manelpz/CinemaAPI), [Vue.js](https://github.com/manelpz/forkify) and [iOS](https://github.com/manelpz/FaceTracker) 📕 
 - I'm interested in collaborate in non-profit projects and Startups 🔥 
 - Contact me on [Linkedin](https://www.linkedin.com/in/manelpz/) 💬 
