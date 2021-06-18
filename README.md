@@ -7,6 +7,7 @@
 - I’m currently learning [.NET Core Web API](https://github.com/manelpz/CinemaAPI), [Vue.js](https://github.com/manelpz/forkify) and [iOS](https://github.com/manelpz/FaceTracker) 📕 
 - I'm interested in collaborate in non-profit projects and Startups 🔥 
 - Contact me on [Linkedin](https://www.linkedin.com/in/manelpz/) 💬 
+- Join the [NSCoderMexico Community](https://bit.ly/3wGP7Ho) 
 
 
 
