@@ -5,7 +5,7 @@
 
 - Check it out my last Vue.js project [ninja-smoothies](https://github.com/manelpz/ninja-smoothies) 🔨
 - I’m currently learning [.NET Core Web API](https://github.com/manelpz/CinemaAPI), [Vue.js](https://github.com/manelpz/forkify) and [iOS](https://github.com/manelpz/FaceTracker) 📕 
-- I'm interested in collaborate in non-profit projects and Startups 🔥 
+- I'm interested in collaborate in non-profit projects and open source 🔥 
 - Contact me on [Linkedin](https://www.linkedin.com/in/manelpz/) 💬 
 - Join the [NSCoderMexico](https://bit.ly/3wGP7Ho) Community 
 
