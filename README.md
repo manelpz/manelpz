@@ -11,7 +11,4 @@
 - Join the [NSCoderMexico](https://bit.ly/3wGP7Ho) Community 
 
 
-adding new projects...
-
-
 
