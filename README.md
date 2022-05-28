@@ -10,7 +10,7 @@
 - Contact me on [Linkedin](https://www.linkedin.com/in/manelpz/) 💬 
 - Join the [NSCoderMexico](https://bit.ly/3wGP7Ho) Community 
 
-
+..
 
 
 
