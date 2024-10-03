@@ -1,4 +1,4 @@
-# ...Hi there, I'm [emma](https://manelpz.github.io) 👋🏻👨🏻‍💻
+# ...Hi there, I'm [emma](https://manelpz.github.io) 👨🏻‍💻
 <img src="https://github.com/manelpz/manelpz/blob/master/Image/1.png" alt="banner that says Emmanuel lopez - .net developer at day, ios and js at night">
 <h3 align="left">Working on:</h3>
 
