@@ -26,7 +26,10 @@
 
 
 <h3 align="left">NSCoder Community:</h3>
-![1695756572340](https://github.com/user-attachments/assets/a67ffd77-4413-40ea-95f2-bc49eb628f5a)
+
+<img src="https://github.com/user-attachments/assets/a67ffd77-4413-40ea-95f2-bc49eb628f5a" alt="banner nscoder mexico ">
+
+
 
   - Join the [NSCoderMexico](https://bit.ly/3wGP7Ho) Community, we are a group of people interested in the development and design of iOS and macOS applications.
 
