@@ -4,9 +4,9 @@
 
 - 🕷️ Currently working in Web Scrapping with .Net, AgilityPack and Selenium. 
 
-- 🔨 Check it out my last personal project with .NET Clean Architecture API [Clean Architecture](https://github.com/manelpz/Clean-Architecture) and [.NET Core Web API](https://github.com/manelpz/CinemaAPI) 
+- 🔨 Check it out my last personal project with .NET Clean Architecture API: [Clean Architecture](https://github.com/manelpz/Clean-Architecture) and [.NET Core Web API](https://github.com/manelpz/CinemaAPI) 
     
-- 📕 I’m currently learning Vue.js [ninja-smoothies](https://github.com/manelpz/ninja-smoothies) and [iOS](https://github.com/manelpz/CoreMLImage) 
+- 📕 I’m currently learning Vue.js: [ninja-smoothies](https://github.com/manelpz/ninja-smoothies) and iOS: [CoreML](https://github.com/manelpz/CoreMLImage) 
   
 - 🔥 I'm interested in collaborate in open source and non-profit projects
   
