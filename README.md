@@ -1,13 +1,11 @@
 # ...Hi there, I'm [emma](https://manelpz.github.io) 👨🏻‍💻
-<img src="https://github.com/manelpz/manelpz/blob/master/Image/1.png" alt="banner that says Emmanuel lopez - .net developer at day, ios and js at night">
+<img src="https://github.com/user-attachments/assets/63fd44ab-4dbe-49c7-8b25-0a7fa527e6f0" alt="banner that says Emmanuel lopez - .net developer at day, ios and js at night">
 <h3 align="left">Working on:</h3>
 
 - 🕷️ Currently working in Web Scrapping with .Net, AgilityPack and Selenium. 
 
 - 🔨 Check it out my last personal project with .NET Clean Architecture API [Clean Architecture](https://github.com/manelpz/Clean-Architecture) and [.NET Core Web API](https://github.com/manelpz/CinemaAPI) 
--
-  
-  
+    
 - 📕 I’m currently learning Vue.js [ninja-smoothies](https://github.com/manelpz/ninja-smoothies) and [iOS](https://github.com/manelpz/CoreMLImage) 
   
 - 🔥 I'm interested in collaborate in open source and non-profit projects
